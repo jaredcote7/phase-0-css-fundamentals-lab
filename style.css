@@ -1,5 +1,26 @@
+header, section {
+  text-align: center;
+  margin: auto;
+}
+
+nav a#pad {
+  padding: 10px 20px;
+  background-color: gray;
+}
+
+figcaption {
+  font-size: 70%;
+  text-align: center;
+}
+
+.featured-property p {
+  width: 200px;
+  height: 100px;
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
 }
